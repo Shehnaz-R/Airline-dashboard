@@ -1,139 +1,330 @@
-✈️ Airline Passenger & Flight Performance Dashboard
+# ✈️ Airline Passenger & Flight Performance Dashboard
 
+<p align="center">
+  <b>Interactive Power BI Dashboard for Global Airline Analytics & Operational Insights</b><br><br>
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/Focus-Business%20Intelligence-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=for-the-badge)
 
+</p>
 
+---
 
+# 📌 Overview
 
+**Airline Passenger & Flight Performance Dashboard** is a comprehensive Power BI analytics solution designed to analyze airline operations, passenger demographics, airport activity, and flight performance across the globe.
 
-📌 Overview
+The dashboard transforms raw aviation data into meaningful business insights through interactive visualizations, KPI monitoring, and geographical analysis. It enables stakeholders to evaluate operational efficiency, monitor passenger movement, and identify regional performance trends through an intuitive and data-driven interface.
 
-Airline Passenger & Flight Performance Dashboard is a comprehensive Power BI analytics solution designed to explore airline operations, passenger demographics, airport activity, and flight performance across the globe.
+---
 
-The dashboard converts raw aviation data into meaningful business insights through interactive visualizations, KPI monitoring, and geographical analysis. It enables stakeholders to evaluate operational efficiency, monitor passenger movement, and identify regional performance trends.
+# 🎯 Business Objectives
 
-🎯 Business Objectives
-Monitor global passenger traffic and airport activity
-Analyze flight performance across different regions
-Understand passenger demographic patterns
-Compare airline operations by continent and country
-Identify trends in delays, cancellations, and on-time flights
-Support data-driven decision-making through interactive analytics
-🖼️ Dashboard Preview
-Overview Page
-Analytics Dashboard
-📊 Key Performance Indicators (KPIs)
-KPI	Value	Description
-Total Passengers	99K	Total passengers analyzed
-Total Airports	9,061	Airport coverage worldwide
-Countries Covered	235	Geographic reach
-On-Time Rate	33%	Operational efficiency indicator
-📈 Dashboard Components & Analytics
-1. ✈️ Airport Passenger Analysis
-Visualization: Horizontal Bar Chart
-Data: Airport Name vs Passenger Count
-Purpose: Identify high-traffic airports and major transportation hubs
-2. 🌎 Global Passenger Distribution
-Visualization: Interactive Map
-Data: Country & Continent-wise Passenger Count
-Purpose: Analyze geographical distribution of airline passengers
-3. 🥧 Flight Status Analysis
-Visualization: Pie Chart
-Categories:
-On-Time Flights
-Delayed Flights
-Cancelled Flights
-Purpose: Evaluate airline operational performance and reliability
-4. 👥 Passenger Demographics Analysis
-Gender Distribution
-Visualization: Donut Chart
-Categories:
-Male
-Female
-Purpose: Understand passenger demographic composition
-Age Trend Analysis
-Visualization: Line Chart
-Data: Age vs Passenger Count
-Purpose: Analyze passenger distribution across age groups
-5. 🌍 Continent-wise Performance Comparison
-Visualization: Stacked Column Chart
-Data: Continents vs Flight Status
-Purpose: Compare operational performance across different regions
-🔍 Interactivity & User Controls
+* Monitor global passenger traffic and airport activity
+* Analyze flight performance across multiple regions
+* Understand passenger demographic patterns
+* Compare airline operations by continent and country
+* Identify trends in delays, cancellations, and on-time flights
+* Support strategic decision-making through interactive analytics
 
-The dashboard includes dynamic filtering options:
+---
 
-Continent Filter
-Africa
-Asia
-Europe
-North America
-Oceania
-South America
+# 🖼️ Dashboard Preview
 
-All visuals, KPIs, and charts are interconnected, enabling real-time data exploration and drill-down analysis.
+## Overview Page
 
-🧠 Key Insights Derived
-North America records the highest passenger volume among all continents.
-Passenger distribution spans across 235 countries, demonstrating extensive global coverage.
-Flight statuses are nearly balanced among On-Time, Delayed, and Cancelled categories.
-Passenger demographics show an almost equal distribution between male and female travelers.
-Certain airports contribute significantly higher passenger traffic compared to others.
-Passenger activity remains relatively consistent across different age groups.
-🛠️ Tools & Technologies
-Power BI
-Data Modeling
-Dashboard Design
-Interactive Visualizations
-KPI Monitoring
-Power Query
-Data Cleaning
-Data Transformation
-Data Preparation
-DAX
-KPI Calculations
-Custom Measures
-Aggregated Metrics
-Bing Maps
-Geographic Visualization
-Global Passenger Mapping
-🧱 Project Structure
-📦 Airline-Passenger-Dashboard
+<p align="center">
+  <img src="Overview_Dashboard.png" width="95%" alt="Overview Dashboard"/>
+</p>
+
+## Analytics Dashboard
+
+<p align="center">
+  <img src="Airline_Passenger_Dashboard.png" width="95%" alt="Airline Dashboard"/>
+</p>
+
+---
+
+# 📊 Key Performance Indicators (KPIs)
+
+| KPI                    | Value | Description                   |
+| ---------------------- | ----- | ----------------------------- |
+| **Total Passengers**   | 99K   | Total passengers analyzed     |
+| **Total Airports**     | 9,061 | Airports covered globally     |
+| **Countries Covered**  | 235   | Worldwide geographic coverage |
+| **On-Time Percentage** | 33%   | Flight punctuality indicator  |
+
+---
+
+# 📈 Dashboard Components & Analytics
+
+## 1. ✈️ Airport Passenger Analysis
+
+**Visualization:** Horizontal Bar Chart
+
+**Data:** Airport Name vs Passenger Count
+
+**Purpose:**
+
+* Identify airports with the highest passenger traffic
+* Compare airport performance
+* Understand passenger concentration across locations
+
+---
+
+## 2. 🌎 Global Passenger Distribution
+
+**Visualization:** Interactive World Map
+
+**Data:** Country and Continent-wise Passenger Count
+
+**Purpose:**
+
+* Visualize global airline coverage
+* Analyze passenger distribution geographically
+* Identify major travel regions
+
+---
+
+## 3. 🥧 Flight Status Analysis
+
+**Visualization:** Pie Chart
+
+**Categories:**
+
+* On-Time Flights
+* Delayed Flights
+* Cancelled Flights
+
+**Purpose:**
+
+* Measure operational efficiency
+* Monitor service reliability
+* Evaluate flight performance outcomes
+
+---
+
+## 4. 👥 Passenger Demographics Analysis
+
+### Gender Distribution
+
+**Visualization:** Donut Chart
+
+**Categories:**
+
+* Male Passengers
+* Female Passengers
+
+**Purpose:**
+
+* Analyze passenger demographic composition
+* Understand customer distribution
+
+### Age Analysis
+
+**Visualization:** Line Chart
+
+**Data:** Age vs Passenger Count
+
+**Purpose:**
+
+* Identify age-related travel patterns
+* Understand passenger demographics across age groups
+
+---
+
+## 5. 🌍 Continent-wise Flight Performance
+
+**Visualization:** Stacked Column Chart
+
+**Data:** Continents vs Flight Status
+
+**Purpose:**
+
+* Compare operational performance across regions
+* Evaluate passenger volume by continent
+* Analyze flight status trends geographically
+
+---
+
+# 🔍 Interactivity & User Controls
+
+The dashboard includes interactive continent filters:
+
+* Africa
+* Asia
+* Europe
+* North America
+* Oceania
+* South America
+
+### Features
+
+* Dynamic filtering
+* Cross-visual interaction
+* Real-time KPI updates
+* Drill-down exploration
+* Interactive geographic analysis
+
+All visuals and KPIs update automatically based on user selections, enabling seamless data exploration.
+
+---
+
+# 🧠 Key Insights Derived
+
+* North America contributes the highest passenger volume among all continents.
+* Airline operations span across **235 countries**, indicating extensive global coverage.
+* Flight statuses are almost evenly distributed between **On-Time**, **Delayed**, and **Cancelled** categories.
+* Passenger demographics show a nearly balanced distribution between male and female travelers.
+* Several airports account for significantly higher passenger traffic compared to others.
+* Passenger activity remains relatively consistent across different age groups.
+
+---
+
+# 🛠️ Tools & Technologies
+
+### Power BI
+
+* Dashboard Development
+* Interactive Reporting
+* Data Visualization
+* Business Intelligence
+
+### Power Query
+
+* Data Cleaning
+* Data Transformation
+* ETL Processes
+
+### DAX
+
+* KPI Calculations
+* Custom Measures
+* Business Metrics
+
+### Bing Maps
+
+* Geographic Visualization
+* Location-Based Analysis
+
+---
+
+# 🧱 Project Structure
+
+```bash
+📦 Airline-Passenger-Flight-Performance-Dashboard
  ┣ 📊 Airline_Passenger_Dashboard.pbix
  ┣ 📁 Dataset
  ┃ ┗ 📄 airline_passenger_data.csv
  ┣ 📁 Screenshots
- ┃ ┣ 📷 Overview Dashboard.png
- ┃ ┗ 📷 Airline Passenger Dashboard.png
- ┗ 📄 README.md
-🚀 How to Use
-Download the Power BI project file (.pbix)
-Open using Microsoft Power BI Desktop
-Refresh the dataset if required
-Use continent filters to explore regional insights
-Analyze KPIs and interactive visualizations dynamically
-🏁 Conclusion
+ ┃ ┣ 📷 Overview_Dashboard.png
+ ┃ ┗ 📷 Analytics_Dashboard.png
+ ┣ 📄 README.md
+ ┗ 📄 LICENSE
+```
 
-This dashboard demonstrates how Business Intelligence tools can transform airline operational data into meaningful insights.
+---
 
-The project showcases:
+# 🚀 How to Use
 
-Interactive dashboard development using Power BI
-Effective use of KPI-driven analytics
-Geographic and demographic data analysis
-Business storytelling through visualization
-Real-world airline performance monitoring
-👩‍💻 Author
+### Step 1
 
-Shehnaz Rangrez
+Download or clone the repository.
+
+```bash
+git clone https://github.com/yourusername/Airline-Passenger-Flight-Performance-Dashboard.git
+```
+
+### Step 2
+
+Open the `.pbix` file using **Microsoft Power BI Desktop**.
+
+### Step 3
+
+Refresh the dataset if required.
+
+### Step 4
+
+Use continent filters and interactive visuals to explore insights.
+
+### Step 5
+
+Analyze KPIs, passenger trends, demographic distributions, and flight performance metrics.
+
+---
+
+# 💡 Business Value
+
+This dashboard helps stakeholders:
+
+* Monitor airline operational performance
+* Track passenger movement across regions
+* Understand customer demographics
+* Evaluate airport efficiency
+* Identify regional growth opportunities
+* Improve strategic planning and decision-making
+
+---
+
+# 🚀 Future Enhancements
+
+* Real-time Flight Data Integration
+* Airline-wise Performance Analysis
+* Revenue & Profit Analytics
+* Predictive Delay Forecasting
+* Customer Satisfaction Metrics
+* Route Optimization Recommendations
+* Advanced Drill-through Reporting
+
+---
+
+# 🎓 Skills Demonstrated
+
+* Power BI Dashboard Development
+* Data Visualization
+* Data Storytelling
+* Business Intelligence
+* Data Modeling
+* Power Query
+* DAX Calculations
+* KPI Design
+* Geographic Analysis
+* Analytical Thinking
+
+---
+
+# 🏁 Conclusion
+
+The **Airline Passenger & Flight Performance Dashboard** provides a comprehensive view of airline operations through interactive analytics and visual storytelling. By integrating passenger demographics, airport activity, geographic distribution, and flight performance metrics into a single platform, the dashboard enables data-driven decision-making and operational performance monitoring at a global scale.
+
+---
+
+# 👩‍💻 Author
+
+### Shehnaz Rangrez
 
 📊 Data Analyst | Power BI Developer | SQL Enthusiast | Data Visualization
 
-⭐ Support
+**LinkedIn:** [www.linkedin.com/in/shehnaz-rangrez](http://www.linkedin.com/in/shehnaz-rangrez)
 
-If you find this project useful:
+**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+
+---
+
+# ⭐ Support
+
+If you found this project useful:
 
 ⭐ Star the repository
+
 🍴 Fork the project
-📢 Share your feedback
+
+📢 Share feedback
+
 🤝 Connect for collaboration
+
+---
+
+### Made with ❤️ using Power BI and Data Analytics. ✈️📊
