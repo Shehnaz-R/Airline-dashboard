@@ -36,7 +36,7 @@ The dashboard transforms raw aviation data into meaningful business insights thr
 ## Overview Page
 
 <p align="center">
-  <img src="page_one.png" width="95%" alt="Overview Dashboard"/>
+  <img src="Page_one.png" width="95%" alt="Overview Dashboard"/>
 </p>
 
 ## Analytics Dashboard
