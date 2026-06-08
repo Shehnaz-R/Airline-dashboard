@@ -309,7 +309,7 @@ The **Airline Passenger & Flight Performance Dashboard** provides a comprehensiv
 
 **LinkedIn:** [www.linkedin.com/in/shehnaz-rangrez](https://www.linkedin.com/in/shehnaz-rangrez-3a7228280/)
 
-**GitHub:** [https://github.com/yourusername](https://github.com/Shehnaz-R/)
+**GitHub:** [https://github.com/Shehnaz-R](https://github.com/Shehnaz-R/)
 
 ---
 
