@@ -307,9 +307,9 @@ The **Airline Passenger & Flight Performance Dashboard** provides a comprehensiv
 
 📊 Data Analyst | Power BI Developer | SQL Enthusiast | Data Visualization
 
-**LinkedIn:** [www.linkedin.com/in/shehnaz-rangrez](http://www.linkedin.com/in/shehnaz-rangrez)
+**LinkedIn:** [www.linkedin.com/in/shehnaz-rangrez](https://www.linkedin.com/in/shehnaz-rangrez-3a7228280/)
 
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+**GitHub:** [https://github.com/yourusername](https://github.com/Shehnaz-R/)
 
 ---
 
